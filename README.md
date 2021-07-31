@@ -45,9 +45,9 @@ Press enter to start the simulation
 All data in the Excel file!
 
 The simulation infected cases and deaths over the days:
-<br/>
+<div>
 <img align="left" src="https://github.com/prateekmaj21/Disease-Outbreak-Simulation/blob/main/Graph.jpg">
-<BR>
+</div>
 Excel Screenshot:
 
 ![Screenshot](https://github.com/prateekmaj21/Disease-Outbreak-Simulation/blob/main/Data.jpg)
