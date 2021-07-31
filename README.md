@@ -50,7 +50,5 @@ The simulation infected cases and deaths over the days:
 </div>
 
 
-Excel Screenshot:
-
 ![Screenshot](https://github.com/prateekmaj21/Disease-Outbreak-Simulation/blob/main/Data.jpg)
 
