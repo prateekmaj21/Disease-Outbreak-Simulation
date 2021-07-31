@@ -8,7 +8,10 @@ We can set various initial conditions like size of population, rate of infection
 The interaction of people in the population and spread of infection get simulated. For each day of the simulation, we get details of the spread of disease.
 At the end of the simulation, we get the timeline of the infected and deaths in graph format.
 
-
+## File
+```
+simulation.py
+```
 ## SAMPLE EXECUTION
 
 Disease Outbreak Simulation
